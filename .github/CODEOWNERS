@@ -1,0 +1,10 @@
+# Cada carpeta tiene un responsable que revisa los cambios en ella.
+# Reemplaza USUARIO_CARLOS y USUARIO_GAEL por sus usuarios de GitHub reales antes de activar
+# "Require review from Code Owners" en las protecciones de rama.
+/admin-api/   @D2GGutierrez
+/user-api/    @D2GGutierrez
+/ai-service/  @D2GGutierrez
+/infra/       @D2GGutierrez
+# /admin-web/ @USUARIO_CARLOS
+# /user-web/  @USUARIO_CARLOS
+# /mobile/    @USUARIO_GAEL
